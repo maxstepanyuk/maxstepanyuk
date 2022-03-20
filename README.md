@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxstepanyuk
 - 👀 I’m interested in music production and programming
-- 🌱 I’m currently learning Computer Sciense in Uni (.Net, java, and web dev)
-- 💞️ I’m looking to collaborate on my momework))
+- 🌱 I’m currently learning Computer Sciense in Uni
+- 💞️ I’m looking to collaborate on my momework :) :| :(
 - 📫 How to reach me https://linktr.ee/purpexe
 
 <!---
