@@ -6,6 +6,8 @@
 
  ## 📫 Reach me at [maksstep.com](https://maksstep.com/)
 
+ ## 🎛️ I also make music [purpexe.com](https://purpexe.com/)
+
 <!---
 maxstepanyuk/maxstepanyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
